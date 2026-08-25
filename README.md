@@ -5,13 +5,12 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=suhanishrivastava19" alt="suhanishrivastava19" /></a> </p>
 
-- 🔭 I’m currently working on [Real-world Data Analytics & Visualization Projects](Python • Pandas • SQL • Power BI)
-
+- 🔭 I’m currently working on Real-world Data Analytics & Visualization Projects
 - 🌱 I’m currently learning **Data Analytics & Machine Learning**
 
-- 👯 I’m looking to collaborate on [Data Analytics Projects](Python • SQL • Power BI)
+- 👯 I’m looking to collaborate on Data Analytics Projects
 
-- 🤝 I’m looking for help with [Machine Learning & Advanced Analytics](ML • Statistics • Data Science)
+- 🤝 I’m looking for help with Machine Learning & Advanced Analytics
 
 - 📫 How to reach me **shrivastavasuhani362@gmail.com**
 
@@ -19,7 +18,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/suhani shrivastava" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="suhani shrivastava" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/suhani-shrivastava-b99ab6337/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="suhani shrivastava" height="30" width="40" /></a>
 <a href="https://instagram.com/suhanishrivastava19" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="suhanishrivastava19" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/suhani_shrivastava19" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="suhani_shrivastava19" height="30" width="40" /></a>
 </p>
