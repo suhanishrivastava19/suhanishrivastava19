@@ -4,11 +4,20 @@
 
 ### 📊 Data Analyst | Python | SQL | Power BI | Machine Learning
 
-*Turning data into insights • Learning • Building • Growing*
+**Turning Data into Insights • Learning • Building • Growing**
 
-<a href="https://github.com/suhanishrivastava19">
+<p>
   <img src="https://komarev.com/ghpvc/?username=suhanishrivastava19&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
-</a>
+</p>
+
+<p>
+  <a href="https://github.com/suhanishrivastava19">
+    <img src="https://img.shields.io/github/followers/suhanishrivastava19?label=Followers&style=flat&color=0e75b6" alt="GitHub Followers"/>
+  </a>
+  <a href="https://github.com/suhanishrivastava19?tab=repositories">
+    <img src="https://img.shields.io/github/stars/suhanishrivastava19?label=Stars&style=flat&color=yellow" alt="GitHub Stars"/>
+  </a>
+</p>
 
 </div>
 
@@ -18,64 +27,48 @@
 
 🎯 I'm passionate about **Data Analytics, Data Visualization, and Machine Learning**.
 
-📊 I enjoy transforming raw data into meaningful insights and building projects that solve real-world problems.
+📊 I enjoy transforming raw data into meaningful insights and creating dashboards that help communicate data clearly.
 
-🌱 Currently learning and improving my skills in **Data Analytics, Machine Learning, SQL, Python, and Business Intelligence**.
+🐍 I work with **Python, Pandas, NumPy, Matplotlib, Seaborn, SQL and Power BI**.
 
-💡 I believe in learning by building — one dataset, one dashboard, and one project at a time.
+🤖 Currently expanding my knowledge in **Machine Learning and Advanced Analytics**.
 
-🤝 I'm open to collaborating on **Data Analytics, Visualization, Python, SQL, and Machine Learning projects**.
+💡 I believe in learning by building real-world projects and continuously improving my skills.
+
+🤝 I'm open to collaborating on **Data Analytics, Visualization, Python, SQL and Machine Learning projects**.
 
 ---
 
 ## 🚀 What I'm Currently Working On
 
 * 📊 Real-world **Data Analytics & Visualization Projects**
-* 🐍 Strengthening **Python for Data Analysis**
-* 🗄️ Improving **SQL & Database Skills**
-* 🤖 Learning **Machine Learning**
-* 📈 Building interactive **Power BI Dashboards**
-* 💡 Exploring new ways to turn data into actionable insights
+* 🐍 Python for Data Analysis
+* 🗄️ SQL & Database Management
+* 📈 Power BI Dashboards
+* 🤖 Machine Learning
+* 📚 Statistics & Data Preprocessing
 
 ---
 
 ## 🛠️ Tech Stack
 
-### 📊 Data Analytics & Visualization
+### 📊 Data Analytics
 
 <p align="left">
-<a href="https://www.python.org/">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="45" height="45" alt="Python"/>
-</a>
-<a href="https://pandas.pydata.org/">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="45" height="45" alt="Pandas"/>
-</a>
-<a href="https://numpy.org/">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" width="45" height="45" alt="NumPy"/>
-</a>
-<a href="https://matplotlib.org/">
-<img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" width="45" height="45" alt="Matplotlib"/>
-</a>
-<a href="https://seaborn.pydata.org/">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matplotlib/matplotlib-original.svg" width="45" height="45" alt="Matplotlib"/>
 <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" width="45" height="45" alt="Seaborn"/>
-</a>
-<a href="https://scikit-learn.org/">
 <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="45" height="45" alt="Scikit-learn"/>
-</a>
 </p>
 
-### 🗄️ Databases & Querying
+### 🗄️ SQL & Databases
 
 <p align="left">
-<a href="https://www.mysql.com/">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="55" height="55" alt="MySQL"/>
-</a>
-<a href="https://www.postgresql.org/">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="50" height="50" alt="PostgreSQL"/>
-</a>
-<a href="https://www.mongodb.com/">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="50" height="50" alt="MongoDB"/>
-</a>
 </p>
 
 ### 📈 Business Intelligence
@@ -84,7 +77,7 @@
 
 <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI"/>
 
-<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" alt="Excel"/>
+<img src="https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" alt="Excel"/>
 
 </p>
 
@@ -102,57 +95,19 @@
 
 ---
 
-## 🧠 Skills
-
-```text
-Data Analysis        ███████████████████░░   Python • Pandas • NumPy
-Data Visualization  ████████████████████░   Power BI • Matplotlib • Seaborn
-SQL & Databases      ██████████████████░░░   MySQL • PostgreSQL
-Machine Learning     ███████████████░░░░░░   Scikit-learn
-Statistics           ████████████████░░░░░   Data Analysis • Statistical Methods
-```
-
----
-
-## 📌 Featured Projects
-
-### 📊 Data Analytics Projects
-
-<a href="https://github.com/suhanishrivastava19">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=suhanishrivastava19&repo=YOUR_ANALYTICS_PROJECT&theme=tokyonight&hide_border=true" />
-</a>
-
-<a href="https://github.com/suhanishrivastava19">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=suhanishrivastava19&repo=YOUR_POWERBI_PROJECT&theme=tokyonight&hide_border=true" />
-</a>
-
-### 🤖 Machine Learning Projects
-
-<a href="https://github.com/suhanishrivastava19">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=suhanishrivastava19&repo=YOUR_ML_PROJECT&theme=tokyonight&hide_border=true" />
-</a>
-
-<a href="https://github.com/suhanishrivastava19">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=suhanishrivastava19&repo=YOUR_PYTHON_PROJECT&theme=tokyonight&hide_border=true" />
-</a>
-
-> 💡 Replace the `YOUR_..._PROJECT` values with your actual repository names.
-
----
-
-## 📊 GitHub Analytics
+# 📊 GitHub Analytics
 
 <div align="center">
 
 <a href="https://github.com/suhanishrivastava19">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=suhanishrivastava19&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&rank_icon=github&theme=tokyonight" />
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=suhanishrivastava19&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=tokyonight&rank_icon=github" alt="Suhani's GitHub Stats"/>
 
 </a>
 
 <a href="https://github.com/suhanishrivastava19">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=suhanishrivastava19&layout=compact&langs_count=8&hide_border=true&theme=tokyonight" />
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=suhanishrivastava19&layout=compact&langs_count=8&hide_border=true&theme=tokyonight" alt="Top Languages"/>
 
 </a>
 
@@ -160,21 +115,17 @@ Statistics           ████████████████░░░�
 
 ---
 
-## 🔥 Contribution Streak
+# 🔥 Contribution Streak
 
 <div align="center">
 
-<a href="https://github.com/suhanishrivastava19">
-
-<img src="https://streak-stats.demolab.com/?user=suhanishrivastava19&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
-
-</a>
+<img src="https://streak-stats.demolab.com/?user=suhanishrivastava19&theme=tokyonight&hide_border=true" alt="GitHub Contribution Streak"/>
 
 </div>
 
 ---
 
-## 🏆 GitHub Trophies
+# 🏆 GitHub Trophies
 
 <div align="center">
 
@@ -184,72 +135,95 @@ Statistics           ████████████████░░░�
 
 ---
 
-## 📈 Contribution Activity
+# 📈 Contribution Activity
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=suhanishrivastava19&theme=tokyo-night&hide_border=true&area=true" alt="Suhani's GitHub Activity Graph"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=suhanishrivastava19&theme=tokyo-night&hide_border=true&area=true" alt="GitHub Activity Graph"/>
 
 </div>
 
 ---
 
-## 🐍 Contribution Snake
+# 🐍 Contribution Snake
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/suhanishrivastava19/suhanishrivastava19/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/suhanishrivastava19/suhanishrivastava19/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/suhanishrivastava19/suhanishrivastava19/output/github-contribution-grid-snake.svg">
+  <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/suhanishrivastava19/suhanishrivastava19/output/github-contribution-grid-snake.svg">
+</picture>
 
 </div>
 
 ---
 
-## 📚 Currently Learning
+# 📌 Featured Projects
 
-* 🐍 Advanced Python for Data Analysis
-* 📊 Advanced Power BI & Data Visualization
-* 🗄️ SQL & Database Management
-* 🤖 Machine Learning
-* 📈 Statistics for Data Science
-* 🧠 Feature Engineering & Model Evaluation
-* ☁️ Exploring modern Data & AI tools
+<div align="center">
+
+<a href="https://github.com/suhanishrivastava19">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=suhanishrivastava19&repo=YOUR_PROJECT_1&theme=tokyonight&hide_border=true" alt="Featured Project 1"/>
+</a>
+
+<a href="https://github.com/suhanishrivastava19">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=suhanishrivastava19&repo=YOUR_PROJECT_2&theme=tokyonight&hide_border=true" alt="Featured Project 2"/>
+</a>
+
+</div>
+
+<div align="center">
+
+<a href="https://github.com/suhanishrivastava19">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=suhanishrivastava19&repo=YOUR_PROJECT_3&theme=tokyonight&hide_border=true" alt="Featured Project 3"/>
+</a>
+
+<a href="https://github.com/suhanishrivastava19">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=suhanishrivastava19&repo=YOUR_PROJECT_4&theme=tokyonight&hide_border=true" alt="Featured Project 4"/>
+</a>
+
+</div>
 
 ---
 
-## 🎯 My Data Analytics Journey
+# 📚 Currently Learning
+
+| Area                  | Skills                                           |
+| --------------------- | ------------------------------------------------ |
+| 🐍 Python             | Pandas • NumPy • SciPy • Matplotlib              |
+| 📊 Visualization      | Power BI • Excel • Seaborn                       |
+| 🗄️ Databases         | SQL • MySQL • PostgreSQL                         |
+| 🤖 Machine Learning   | Scikit-learn • Classification • Model Evaluation |
+| 📈 Analytics          | Statistics • Data Cleaning • EDA                 |
+| 🧠 Advanced Analytics | Feature Engineering • Data Preprocessing         |
+
+---
+
+# 🎯 My Data Analytics Journey
 
 ```text
-                    DATA
-                      │
-                      ▼
-              ┌───────────────┐
-              │ Data Cleaning │
-              └───────┬───────┘
-                      │
-                      ▼
-              ┌───────────────┐
-              │ Data Analysis │
-              └───────┬───────┘
-                      │
-                      ▼
-              ┌────────────────┐
-              │ Visualization  │
-              └───────┬────────┘
-                      │
-                      ▼
-              ┌────────────────┐
-              │    Insights    │
-              └───────┬────────┘
-                      │
-                      ▼
-              ┌────────────────┐
-              │ Decision Making│
-              └────────────────┘
+                📂 RAW DATA
+                    │
+                    ▼
+             🧹 DATA CLEANING
+                    │
+                    ▼
+              🔍 DATA ANALYSIS
+                    │
+                    ▼
+            📊 VISUALIZATION
+                    │
+                    ▼
+              💡 INSIGHTS
+                    │
+                    ▼
+          🎯 BUSINESS DECISIONS
 ```
 
 ---
 
-## 🤝 Let's Connect
+# 🤝 Let's Connect
 
 <div align="center">
 
@@ -258,7 +232,7 @@ Statistics           ████████████████░░░�
 </a>
 
 <a href="mailto:shrivastavasuhani362@gmail.com">
-<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
 </a>
 
 <a href="https://leetcode.com/suhani_shrivastava19/">
@@ -273,13 +247,13 @@ Statistics           ████████████████░░░�
 
 ---
 
-## 📄 Resume
+# 📄 Resume
 
 <div align="center">
 
 <a href="https://github.com/suhanishrivastava19/suhani_shrivastava_resume/tree/main">
 
-<img src="https://img.shields.io/badge/View%20My%20Resume-4285F4?style=for-the-badge&logo=readthedocs&logoColor=white" alt="Resume"/>
+<img src="https://img.shields.io/badge/View%20My%20Resume-4285F4?style=for-the-badge&logo=readthedocs&logoColor=white" alt="View Resume"/>
 
 </a>
 
@@ -287,27 +261,10 @@ Statistics           ████████████████░░░�
 
 ---
 
-## 💬 A Little More About Me
-
-```text
-🎯 Goal        → Become a strong Data Analyst
-📊 Passion     → Turning data into meaningful insights
-🐍 Favorite    → Python & SQL
-📈 Love        → Dashboards & Data Visualization
-🤖 Exploring   → Machine Learning
-💡 Mindset     → Learn • Build • Improve
-```
-
----
-
 <div align="center">
 
 ### ⭐ Thanks for visiting my profile!
 
-**If you find my projects interesting, consider giving them a ⭐**
-
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=120&section=footer"/>
+**Let's turn data into insights. 📊**
 
 </div>
