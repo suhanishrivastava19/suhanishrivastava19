@@ -38,47 +38,47 @@
 
 <p align="left">
 
-<a href="https://www.linkedin.com/in/suhani-shrivastava-b99ab6337/" target="_blank">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+<a href="https://www.linkedin.com/in/suhani-shrivastava-b99ab6337/">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 
 <a href="mailto:shrivastavasuhani362@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+<img src="https://img.shields.io/badge/Gmail-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
 </a>
 
-<a href="https://leetcode.com/suhani_shrivastava19/" target="_blank">
-<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
+<a href="https://leetcode.com/suhani_shrivastava19/">
+<img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
 </a>
 
-<a href="https://github.com/suhanishrivastava19" target="_blank">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+<a href="https://github.com/suhanishrivastava19">
+<img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
 
 </p>
 
 ---
 
-## 🧠 Skills & Technologies
+# 🧠 Skills & Technologies
 
 ### 📊 Data Analytics & Visualization
 
-**Python • Pandas • NumPy • SciPy • Matplotlib • Seaborn • Power BI • Excel**
+**🐍 Python** • **🐼 Pandas** • **🔢 NumPy** • **📐 SciPy** • **📊 Matplotlib** • **🌊 Seaborn** • **📈 Power BI** • **📗 Excel**
 
 ### 🗄️ Databases & SQL
 
-**SQL • MySQL • PostgreSQL • MongoDB**
+**🗄️ SQL** • **🐬 MySQL** • **🐘 PostgreSQL** • **🍃 MongoDB**
 
 ### 🤖 Machine Learning
 
-**Scikit-learn • Data Preprocessing • EDA • Feature Engineering • Model Evaluation • Classification**
+**🤖 Scikit-learn** • **🧹 Data Preprocessing** • **🔍 EDA** • **⚙️ Feature Engineering** • **📏 Model Evaluation** • **🎯 Classification**
 
 ### 💻 Programming & Development
 
-**Python • C • C++ • HTML • CSS • JavaScript**
+**🐍 Python** • **C** • **C++** • **HTML** • **CSS** • **JavaScript**
 
 ### ☁️ Cloud & Tools
 
-**Git • GitHub • AWS • Google Cloud • Jupyter Notebook • VS Code**
+**🔧 Git** • **🐙 GitHub** • **☁️ AWS** • **☁️ Google Cloud** • **📓 Jupyter Notebook** • **💻 VS Code**
 
 ---
 
@@ -88,15 +88,15 @@
 
 ### 🔹 Netflix Data Analysis
 
-Exploratory data analysis of Netflix content using **Python, Pandas, NumPy and data visualization techniques** to identify patterns and trends in the dataset.
+Exploratory data analysis of Netflix content using **Python, Pandas, NumPy and visualization techniques** to identify patterns and trends.
 
 ### 🔹 Sales Analytics Dashboard
 
-Interactive **Power BI dashboard** featuring KPIs, sales trends, category analysis and business insights to support data-driven decision making.
+Interactive **Power BI dashboard** featuring KPIs, sales trends, category analysis and business insights.
 
 ### 🔹 Data Visualization Projects
 
-Transforming raw datasets into meaningful **charts, dashboards and visual insights** using Python, Power BI and visualization libraries.
+Transforming raw datasets into meaningful **charts, dashboards and visual insights** using Python and Power BI.
 
 ---
 
@@ -104,7 +104,7 @@ Transforming raw datasets into meaningful **charts, dashboards and visual insigh
 
 ### 🔹 Machine Learning Projects
 
-Building machine learning models using **Python and Scikit-learn**, including data preprocessing, feature engineering, model training and evaluation.
+Building machine learning models using **Python and Scikit-learn**, including preprocessing, feature engineering, training and evaluation.
 
 ---
 
@@ -112,7 +112,7 @@ Building machine learning models using **Python and Scikit-learn**, including da
 
 ### 🔹 Route Optimization Delivery Application
 
-A route optimization application designed to find efficient delivery paths using algorithms such as **A*** and **Uniform Cost Search**, combined with map-based visualization.
+A route optimization application using **A*** and **Uniform Cost Search** algorithms with map-based visualization to identify efficient delivery routes.
 
 ---
 
@@ -120,80 +120,135 @@ A route optimization application designed to find efficient delivery paths using
 
 ### 🔹 Smart Student Assistant
 
-A web-based application designed to help students access useful academic functionality through a **centralized and user-friendly platform**.
+A web-based application designed to help students access useful academic functionality through a **centralized platform**.
 
 ---
 
 # 📊 GitHub Analytics
 
-<p align="center">
+<div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=suhanishrivastava19&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=tokyonight" height="180" alt="GitHub Stats"/>
+### 📁 Repositories
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=suhanishrivastava19&layout=compact&langs_count=8&hide_border=true&theme=tokyonight" height="180" alt="Top Languages"/>
+**Explore my repositories to see my projects, experiments and learning journey.**
 
-</p>
+🔹 **Data Analytics Projects**
+🔹 **Python Projects**
+🔹 **Machine Learning Projects**
+🔹 **SQL Projects**
+🔹 **Visualization & Power BI Projects**
+
+[**→ View All My Repositories**](https://github.com/suhanishrivastava19?tab=repositories)
+
+</div>
 
 ---
 
 # 🔥 Contribution Streak
 
-<p align="center">
+<div align="center">
 
 <img src="https://streak-stats.demolab.com/?user=suhanishrivastava19&theme=tokyonight&hide_border=true" alt="GitHub Contribution Streak"/>
 
-</p>
+</div>
 
 ---
 
 # 📈 Contribution Activity
 
-<p align="center">
+<div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=suhanishrivastava19&theme=tokyo-night&hide_border=true&area=true" alt="GitHub Contribution Activity"/>
+### 🟩 Building • Committing • Learning • Growing
 
-</p>
+```text
+My GitHub activity reflects my continuous learning journey.
+
+💻 Code
+   ↓
+📚 Learn
+   ↓
+🛠️ Build
+   ↓
+🚀 Improve
+   ↓
+📊 Repeat
+```
+
+**Every contribution represents one more step forward. 🚀**
+
+</div>
 
 ---
 
-# 🏆 GitHub Trophies
+# 🏆 GitHub Achievements
 
-<p align="center">
+<div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=suhanishrivastava19&theme=tokyonight&no-frame=true&no-bg=true&margin-w=5&column=7" alt="GitHub Trophies"/>
+| 🏆 Achievement   | 🎯 Focus                           |
+| ---------------- | ---------------------------------- |
+| 📂 Projects      | Building real-world applications   |
+| 💻 Coding        | Python • SQL • C/C++               |
+| 📊 Analytics     | Data analysis & visualization      |
+| 🤖 ML            | Machine Learning & experimentation |
+| 🔥 Contributions | Consistent learning & development  |
+| 📚 Learning      | Continuous skill improvement       |
 
-</p>
+</div>
 
 ---
 
 # 💻 Most Used Languages
 
-<p align="center">
+<div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=suhanishrivastava19&layout=donut&langs_count=8&hide_border=true&theme=tokyonight" alt="Most Used Languages"/>
+### 🐍 Python
 
-</p>
+**Data Analysis • Machine Learning • Automation**
+
+### 🗄️ SQL
+
+**Data Querying • Databases • Analytics**
+
+### 💻 C / C++
+
+**Programming • Problem Solving**
+
+### 🌐 HTML • CSS • JavaScript
+
+**Web Development • Application Interfaces**
+
+</div>
 
 ---
 
 # 📈 My GitHub Journey
 
 ```text
-🎓 Started with Programming
-          ↓
-🐍 Learned Python & Data Analysis
-          ↓
-🗄️ Exploring SQL & Databases
-          ↓
-📊 Building Data Visualizations
-          ↓
-📈 Creating Power BI Dashboards
-          ↓
-🤖 Exploring Machine Learning
-          ↓
-🚀 Building Real-World Projects
-          ↓
-🎯 Preparing for a Career in Data Analytics
+🎓 B.Tech in AI & Data Science
+              │
+              ▼
+        💻 Programming
+              │
+              ▼
+       🐍 Python & SQL
+              │
+              ▼
+       📊 Data Analytics
+              │
+              ▼
+      📈 Data Visualization
+              │
+              ▼
+       📊 Power BI
+              │
+              ▼
+      🤖 Machine Learning
+              │
+              ▼
+    🚀 Real-World Projects
+              │
+              ▼
+       🎯 Data Analytics Career
 ```
 
 ---
@@ -245,22 +300,23 @@ A web-based application designed to help students access useful academic functio
 # 💡 My Approach to Data
 
 ```text
-          RAW DATA
-              │
-              ▼
-       🧹 CLEAN & PREPARE
-              │
-              ▼
-        🔍 EXPLORE DATA
-              │
-              ▼
-       📊 VISUALIZE DATA
-              │
-              ▼
-        💡 FIND INSIGHTS
-              │
-              ▼
-      🎯 MAKE DECISIONS
+              📂 RAW DATA
+                  │
+                  ▼
+            🧹 CLEAN DATA
+                  │
+                  ▼
+             🔍 EXPLORE
+                  │
+                  ▼
+            📊 VISUALIZE
+                  │
+                  ▼
+             💡 INSIGHTS
+                  │
+                  ▼
+          🎯 DATA-DRIVEN
+            DECISIONS
 ```
 
 ---
@@ -284,6 +340,20 @@ I'm always interested in connecting with people who are passionate about **Data,
 </a>
 
 </p>
+
+---
+
+# 📄 Resume
+
+<div align="center">
+
+<a href="https://github.com/suhanishrivastava19/suhani_shrivastava_resume/tree/main">
+
+<img src="https://img.shields.io/badge/View%20My%20Resume-4285F4?style=for-the-badge&logo=readthedocs&logoColor=white" alt="Resume"/>
+
+</a>
+
+</div>
 
 ---
 
