@@ -30,7 +30,7 @@
 
 📫 Reach me at **[shrivastavasuhani362@gmail.com](mailto:shrivastavasuhani362@gmail.com)**
 
-📄 [**View My Resume →**](https://github.com/suhanishrivastava19/suhani_shrivastava_resume/tree/main)
+📄 [**View My Resume →**](https://github.com/suhanishrivastava19/suhani_shrivastava_resume/blob/main/Suhani_Shrivastava_Resume_Updated%20(1).pdf)
 
 ---
 
